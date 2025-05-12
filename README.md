@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Telegram][telegram-shield]][telegram-url]
+
+[telegram-shield]: https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white
+[telegram-url]: https://t.me/goodhumman

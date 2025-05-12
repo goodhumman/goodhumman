@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me: </h3>
 <div align="left">
-  <a href="https://t.me/m/rIGIK9upYmNh" target="_blank">
-    <img src="https://i.postimg.cc/mDrjb9BH/telegram.png" width="44" height="40" alt="telegram logo"  />
+  <a href="https://t.me/goodhumman" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" width="100" height="40" alt="telegram logo" />
   </a>
 </div>

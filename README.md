@@ -2,12 +2,12 @@
 <h3 align="center">Python and beginner C++ developer</h3>
 
 <h3 align="left">Languages:</h3>
-<div align="left" style="display: flex; gap: 10px;">
+<div align="left">
   <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white&color=4682B4&label=Python" alt="Python" style="width: 120px; height: 35px;" />
+    <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white&color=4682B4" alt="Python" style="width: 120px; height: 35px;" />
   </a>
   <a href="https://isocpp.org">
-    <img src="https://img.shields.io/badge/C++-4169E1?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=4169E1&label=C%2B%2B" alt="C++" style="width: 120px; height: 35px;" />
+    <img src="https://img.shields.io/badge/C%2B%2B-4169E1?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=4169E1" alt="C++" style="width: 120px; height: 35px;" />
   </a>
 </div>
 

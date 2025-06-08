@@ -18,3 +18,4 @@
 
 ### 📫 Contact with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/goodhumman)
+[![Email](https://img.shields.io/badge/-Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:goodhumman@proton.me)

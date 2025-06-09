@@ -11,10 +11,10 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goodhumman&show_icons=true&theme=tokyonight )
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goodhumman&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/goodhumman)
 
 ### 🗣️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goodhumman&layout=compact&theme=tokyonight )
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goodhumman&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/goodhumman)
 
 ### 📫 Contact with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/goodhumman)

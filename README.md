@@ -20,3 +20,8 @@
 ### 📫 Contact with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/goodhumman)
 [![Email](https://img.shields.io/badge/-Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:goodhumman@proton.me)
+
+---
+
+[![Wakatime](https://wakatime.com/badge/github/goodhumman/goodhumman.svg?style=plastic)](https://wakatime.com/@goodhumman)
+[![Profile Views](https://komarev.com/ghpvc/?username=goodhumman&color=blue&label=Profile+Views&style=plastic)](https://github.com/goodhumman)
